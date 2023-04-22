@@ -173,7 +173,7 @@ body.active {
   width: 58px;
   height: 58px;
   position: absolute;
-  background-image: url(../../img/svg/next-btn.svg);
+  background-image: url(../img/svg/next-btn.svg);
   background-repeat: no-repeat;
   background-position: center;
   top: 42%;
@@ -195,7 +195,7 @@ body.active {
   width: 58px;
   height: 58px;
   position: absolute;
-  background-image: url(../../img/svg/prev-btn.svg);
+  background-image: url(../img/svg/prev-btn.svg);
   background-repeat: no-repeat;
   top: 42%;
   left: 0;
