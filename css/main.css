@@ -294,7 +294,7 @@ body.active {
 }
 @media (max-width: 576px) {
   .form__input {
-    padding: 16px 124px 16px 25px;
+    padding: 16px 100px 16px 25px;
   }
 }
 .form__input-top {
@@ -326,7 +326,7 @@ body.active {
 }
 @media (max-width: 576px) {
   .form__input-top {
-    padding: 16px 124px 16px 25px;
+    padding: 16px 100px 16px 25px;
   }
 }
 .form__btn {
